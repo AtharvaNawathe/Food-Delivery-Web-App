@@ -1,0 +1,3 @@
+to start react: npm start
+
+to start nodemon: nodemon ./index.js
